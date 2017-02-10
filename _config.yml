@@ -1,5 +1,5 @@
 #Site
-title: 水榭清松-Song Kong
+title: 동연이의 블로그
 description: This is Song' home.
 logo: favicon.png
 url: wisewise04.github.io
@@ -32,11 +32,11 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: 김동연     #the name of Blog section
+  about_me: 안녕하세요 동연이 입니다.동연이의 홈페이지는 게임 tip과 잘하는 법들을 공유하는 블로그 입니다.궁금한 것은 wisewise04@naver.com으로 
  
 # Social Links
-email:               hi@kongsong.me
+email:               wisewise04@naver.com
 #google.plus:        username
 #twitter:            username
 facebook:            kongsong
