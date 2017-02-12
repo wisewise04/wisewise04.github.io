@@ -1,6 +1,6 @@
 #Site
 title: 동연이의 블로그
-description: This is Song' home.
+description: This is 김동연' home.
 logo: favicon.png
 url: wisewise04.github.io
 rss_url: /feed.xml
@@ -39,8 +39,8 @@ author:
 email:               wisewise04@naver.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
+facebook:            김동연
+github:              김동연  
 stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           kongsong
 #xing:              username
